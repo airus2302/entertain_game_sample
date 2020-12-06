@@ -40,6 +40,24 @@ body {
   border-radius: 50px;
 }
 
+.grid h2#lenHint {
+  font-family: "Nanum Gothic", "sans-serif";
+  background-color: #db6400;
+  text-align: center;
+  color: #f8f1f1;
+  padding: 40px 0px;
+  border-radius: 50px;
+}
+
+.grid h1#answer {
+  font-family: "Nanum Gothic", "sans-serif";
+  background-color: #16697a;
+  font-size: 60px;
+  text-align: center;
+  color: #ffa62b;
+  padding: 2px 0px;
+}
+
 .buttons {
   margin-top: 30px;
 }
