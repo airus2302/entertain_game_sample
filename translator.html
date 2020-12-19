@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Entertainment Game</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <style>
+        .grid h1#question {
+            padding: 20px 0px;
+        }
+
+        .buttons {
+            display: flex;
+            text-align: center;
+        }
+
+        #btn_kakao {
+            background-color: #778897;
+            width: 20%;
+            font-size: 20px;
+            color: #fff;
+            border: 1px solid #1d3c6a;
+            border-radius: 50px;
+            margin: 10px 40px 10px 40px;
+            padding: 10px 10px;
+        }
+
+        #btn_kakao:hover {
+            cursor: pointer;
+            background-color: #57636e;
+        }
+
+        #btn_kakao:focus {
+            outline: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="grid">
+        <div id="quiz">
+            <h1>번역기 퀴즈</h1>
+            <!-- <hr style="margin-bottom: 20px"> -->
+
+            <div class="card">
+                <h1 id="question">충공깽</h1>
+                <h2 id="lenHint" style="display: none;"></h2>
+                <h1 id="answer" style="display: none;"></h1>
+                <audio id="google_trans">
+                    <source id="google_src" src="" type="audio/mpeg">
+                </audio>
+                <audio id="kakao_trans">
+                    <source id="kakao_src" src="" type="audio/wav">
+                </audio>
+            </div>
+
+            <div class="buttons">
+                <!-- <button id="btn_google">Play Google</button> -->
+                <button id="btn_kakao">Play Kakao</button>
+                <button id="btn0">Hint 보기</button>
+                <button id="btn1">정답 보기</button>
+                <button id="btn2">NEXT</button>
+            </div>
+
+            <!-- <p id="question"></p> -->
+
+            <!-- <div class="buttons">
+                <button id="btn0"><span id="choice0"></span></button>
+                <button id="btn1"><span id="choice1"></span></button>
+                <button id="btn2"><span id="choice2"></span></button>
+                <button id="btn3"><span id="choice3"></span></button>
+            </div> -->
+
+            <hr style="margin-top: 50px">
+            <!-- <footer>
+                <p id="progress">Question x of y</p>
+            </footer> -->
+        </div>
+    </div>
+
+    <script src="translator.js"></script>
+</body>
+</html>

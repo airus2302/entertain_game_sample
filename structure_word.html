@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Entertainment Game</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="grid">
+        <div id="quiz">
+            <h1>신 / 구조어 게임</h1>
+            <!-- <hr style="margin-bottom: 20px"> -->
+
+            <div class="card">
+                <h1 id="question">충공깽</h1>
+                <h2 id="lenHint" style="display: none;"></h2>
+                <h1 id="answer" style="display: none;"></h1>
+            </div>
+
+            <div class="buttons">
+                <button id="btn0">Hint 보기</button>
+                <button id="btn1">정답 보기</button>
+                <button id="btn2">NEXT</button>
+            </div>
+
+            <!-- <p id="question"></p> -->
+
+            <!-- <div class="buttons">
+                <button id="btn0"><span id="choice0"></span></button>
+                <button id="btn1"><span id="choice1"></span></button>
+                <button id="btn2"><span id="choice2"></span></button>
+                <button id="btn3"><span id="choice3"></span></button>
+            </div> -->
+
+            <hr style="margin-top: 50px">
+            <footer>
+                <p id="progress">Question x of y</p>
+            </footer>
+        </div>
+    </div>
+
+    <script src="structure_word.js"></script>
+
+<!-- <script src="quiz.js"></script>
+<script src="question.js"></script>
+<script src="app.js"></script> -->
+</body>
+</html>
