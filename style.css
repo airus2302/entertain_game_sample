@@ -36,7 +36,7 @@ body {
   font-size: 60px;
   text-align: center;
   color: #f8f1f1;
-  padding: 40px 0px;
+  padding: 20px 0px;
   border-radius: 50px;
 }
 
@@ -45,7 +45,7 @@ body {
   background-color: #db6400;
   text-align: center;
   color: #f8f1f1;
-  padding: 40px 0px;
+  padding: 20px 0px;
   border-radius: 50px;
 }
 
@@ -60,6 +60,9 @@ body {
 
 .buttons {
   margin-top: 30px;
+  margin-left: 30px;
+  display: flex;
+  text-align: center;
 }
 
 #btn0,
