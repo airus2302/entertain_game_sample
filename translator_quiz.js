@@ -1,5 +1,29 @@
 const quiz = [
   {
+    id: 0,
+    theme: "korean_movie",
+    answer: "명량",
+    length_hint: "OO",
+    pronunciation: "myeonglyang",
+    gfile_path:
+      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=myeonglyang&tl=en",
+    nfile_path: "",
+    kfile_path:
+      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=myeonglyang",
+  },
+  {
+    id: 1,
+    theme: "korean_movie",
+    answer: "극한직업",
+    length_hint: "OOOO",
+    pronunciation: "geughanjig-eob",
+    gfile_path:
+      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=geughanjig-eob&tl=en",
+    nfile_path: "",
+    kfile_path:
+      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=geughanjig-eob",
+  },
+  {
     id: 2,
     theme: "korean_movie",
     answer: "신과 함께 - 죄와 벌",

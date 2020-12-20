@@ -30,7 +30,8 @@ body {
   border: 2px solid #f8f1f1;
 }
 
-.grid h1#question {
+.grid h1#question,
+h1#theme {
   font-family: "Nanum Gothic", "sans-serif";
   background-color: #db6400;
   font-size: 60px;
