@@ -192,7 +192,7 @@ const quiz = [
     id: 27,
     theme: "애니메이션",
     question: "ㅂㅎㅇㄹ",
-    length_hint: "O히OO",
+    length_hint: "OOOO",
     answer: "빅히어로",
   },
   {
@@ -262,7 +262,7 @@ const quiz = [
     id: 37,
     theme: "애니메이션",
     question: "ㅅㄱㅊㅎㄹㅇㅎㅂㅂㅁ",
-    length_hint: "OO O히OO OOOO",
+    length_hint: "OO OOOO OOOO",
     answer: "센과 치히로의 행방불명",
   },
   {
@@ -381,8 +381,8 @@ const quiz = [
     id: 54,
     theme: "아이스크림 이름",
     question: "ㅂㅂㅂ",
-    length_hint: "OOO or OOO",
-    answer: "바밤바 or 비비빅",
+    length_hint: "OOO / OOO",
+    answer: "바밤바 / 비비빅",
   },
   {
     id: 55,
@@ -464,7 +464,7 @@ const quiz = [
   {
     id: 66,
     theme: "아이스크림 이름",
-    question: "ㄲㅍㅇㄹ",
+    question: "ㅋㅍㅇㄹ",
     length_hint: "OOOO",
     answer: "까페오래",
   },

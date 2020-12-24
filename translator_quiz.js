@@ -3,7 +3,6 @@ const quiz = [
     id: 0,
     theme: "korean_movie",
     answer: "명량",
-    length_hint: "OO",
     pronunciation: "myeonglyang",
     gfile_path:
       "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=myeonglyang&tl=en",
