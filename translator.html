@@ -6,35 +6,126 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js"></script>
     <style>
-        .grid h1#question {
-            padding: 20px 0px;
+        /* 기본 레이아웃과 배경 */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Nanum Gothic', sans-serif;
+            background: linear-gradient(to bottom right, #F9EA8F, #EDEDEB);
         }
 
+        .grid {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        /* 카드 스타일 */
+        #quiz {
+            background-color: #FFFFFF;
+            border-radius: 12px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+            text-align: center;
+            max-width: 480px;
+            width: 90%;
+            padding: 30px;
+            margin: auto;
+        }
+
+        #quiz h1 {
+            font-family: 'Do Hyeon', sans-serif;
+            font-size: 2rem;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        .card {
+            margin-bottom: 20px;
+        }
+
+        .card h1#question {
+            font-family: 'Nanum Gothic', sans-serif;
+            font-weight: 800;
+            font-size: 1.7rem;
+            color: #444;
+            margin: 0 0 10px;
+        }
+
+        #lenHint, #answer {
+            color: #666;
+        }
+
+        /* 버튼 섹션 */
         .buttons {
             display: flex;
-            text-align: center;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 10px;
         }
 
+        button {
+            cursor: pointer;
+            border: none;
+            border-radius: 50px;
+            padding: 12px 20px;
+            font-size: 16px;
+            transition: all 0.3s ease;
+        }
+
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+
+        /* Play 버튼 구분 */
         #btn_kakao {
             background-color: #778897;
-            width: 20%;
-            font-size: 20px;
             color: #fff;
-            border: 1px solid #1d3c6a;
-            border-radius: 50px;
-            margin: 10px 40px 10px 40px;
-            padding: 10px 10px;
         }
 
         #btn_kakao:hover {
-            cursor: pointer;
             background-color: #57636e;
         }
 
-        #btn_kakao:focus {
-            outline: 0;
+        /* Hint 보기, 정답 보기, NEXT 버튼 구분 */
+        #btn0, #btn1, #btn2 {
+            background-color: #f3f3f3;
+            color: #333;
+        }
+
+        #btn0:hover, #btn1:hover, #btn2:hover {
+            background-color: #ddd;
+        }
+
+        hr {
+            margin-top: 40px;
+            border: none;
+            border-top: 1px solid #eee;
+        }
+
+        /* 미디어 쿼리: 화면 너비가 480px 이하일 때(스마트폰, 작은 태블릿 등) 적용 */
+        @media (max-width: 480px) {
+            #quiz {
+                padding: 20px;
+                width: 95%;
+            }
+
+            #quiz h1 {
+                font-size: 1.6rem;
+            }
+
+            .card h1#question {
+                font-size: 1.4rem;
+                margin-bottom: 15px;
+            }
+
+            button {
+                font-size: 14px;
+                padding: 10px 16px;
+            }
         }
     </style>
 </head>
@@ -42,16 +133,15 @@
     <div class="grid">
         <div id="quiz">
             <h1>번역기 퀴즈</h1>
-            <!-- <hr style="margin-bottom: 20px"> -->
 
             <div class="card">
                 <h1 id="question">충공깽</h1>
                 <h2 id="lenHint" style="display: none;"></h2>
                 <h1 id="answer" style="display: none;"></h1>
-                <audio id="google_trans">
+                <audio id="google_trans" preload="auto">
                     <source id="google_src" src="" type="audio/mpeg">
                 </audio>
-                <audio id="kakao_trans">
+                <audio id="kakao_trans" preload="auto">
                     <source id="kakao_src" src="" type="audio/wav">
                 </audio>
             </div>
