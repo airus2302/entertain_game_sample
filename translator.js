@@ -54,7 +54,11 @@ function init() {
 function playKakao() {
   var audioKakao = document.getElementById("kakao_trans");
   audioKakao.load();
-  audioKakao.play();
+  // audioKakao.play();
+  audioKakao.addEventListener("canplaythrough", function() {
+    // 오디오가 완전히 재생 가능하다고 판단된 시점
+    audioKakao.play();
+  });
 }
 
 function showHint() {
