@@ -1843,7 +1843,7 @@ const quiz = [
     theme: "korean_drama", 
     answer: "커피프린스 1호점", 
     length_hint: "OOOOO OOO", 
-    pronunciation: "keopipeurinseu 1hojeom", 
+    pronunciation: "kopipeurinsseu ilhojom", 
     year: "2007" 
   },
   { 
@@ -1899,7 +1899,7 @@ const quiz = [
     theme: "korean_drama", 
     answer: "응답하라 1988", 
     length_hint: "OOOO OOOO", 
-    pronunciation: "eungdaphara 1988", 
+    pronunciation: "eungdapara chongubaekpalsippal", 
     year: "2015" 
   },
   { 
@@ -2003,7 +2003,7 @@ const quiz = [
     theme: "korean_drama", 
     answer: "왕이된 남자", 
     length_hint: "OOO OO", 
-    pronunciation: "wangidoen namja", 
+    pronunciation: "wangi dwen namja", 
     year: "2019" 
   },
   { 
@@ -2363,7 +2363,7 @@ const quiz = [
     theme: "korean_drama", 
     answer: "9회말 투아웃", 
     length_hint: "OOO OOO", 
-    pronunciation: "9hoemal tuaut", 
+    pronunciation: "guhwemal tuaut", 
     year: "2007" 
   },
   { 
@@ -2459,7 +2459,7 @@ const quiz = [
     theme: "korean_drama", 
     answer: "학교2017", 
     length_hint: "OOO0OO", 
-    pronunciation: "hakgyoigongilchil", 
+    pronunciation: "hakkkyoichonsipchil", 
     year: "2017" 
   },
   { 
@@ -2739,7 +2739,7 @@ const quiz = [
     theme: "korean_drama", 
     answer: "18어게인", 
     length_hint: "OOOOO", 
-    pronunciation: "18eogein", 
+    pronunciation: "sipparogein", 
     year: "2020" 
   },
   { 
