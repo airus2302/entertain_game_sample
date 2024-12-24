@@ -9,15 +9,12 @@ function init() {
   var element = document.getElementById("question");
   var theme = "한국영화";
   if (quiz[currentIndex].theme == "korean_movie") theme = "한국영화";
+  else if (quiz[currentIndex].theme == "korean_drama") theme = "한국드라마";
   element.innerHTML = theme;
-  document.getElementById("google_src").src =
-    "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=" +
-    quiz[currentIndex].pronunciation +
-    "&tl=en&total=1&idx=0&textlen=" +
-    quiz[currentIndex].pronunciation.length;
-  document.getElementById("kakao_src").src =
-    "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=" +
-    quiz[currentIndex].pronunciation;
+  const google_src_url = "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=" + quiz[currentIndex].pronunciation + "&tl=en&total=1&idx=0&textlen=" + quiz[currentIndex].pronunciation.length;
+  const kakao_src_url = "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=" + quiz[currentIndex].pronunciation;
+  document.getElementById("google_src").src = google_src_url;
+  document.getElementById("kakao_src").src = kakao_src_url;
 
   var lenHint = document.getElementById("lenHint");
   lenHint.style.display = "none";
@@ -53,6 +50,7 @@ function init() {
 
 function playKakao() {
   var audioKakao = document.getElementById("kakao_trans");
+  console.log('audioKakao', audioKakao)
   audioKakao.load();
   // audioKakao.play();
   audioKakao.addEventListener("canplaythrough", function() {
@@ -63,7 +61,8 @@ function playKakao() {
 
 function showHint() {
   var element = document.getElementById("lenHint");
-  element.innerHTML = quiz[currentIndex].length_hint;
+  if (quiz[currentIndex].theme == "korean_drama") element.innerHTML = quiz[currentIndex].year + "년 드라마 " +  quiz[currentIndex].length_hint;
+  else element.innerHTML = quiz[currentIndex].length_hint;
   element.style.display = "block";
 }
 
