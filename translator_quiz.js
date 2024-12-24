@@ -4,11 +4,9 @@ const quiz = [
     theme: "korean_movie",
     answer: "명량",
     pronunciation: "myeonglyang",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=myeonglyang&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=myeonglyang&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=myeonglyang",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=myeonglyang",
   },
   {
     id: 1,
@@ -16,11 +14,9 @@ const quiz = [
     answer: "극한직업",
     length_hint: "OOOO",
     pronunciation: "geughanjig-eob",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=geughanjig-eob&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=geughanjig-eob&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=geughanjig-eob",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=geughanjig-eob",
   },
   {
     id: 2,
@@ -28,11 +24,9 @@ const quiz = [
     answer: "신과 함께 - 죄와 벌",
     length_hint: "OO OO - OO O",
     pronunciation: "singwa hamkke - joewa beol",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=singwa hamkke - joewa beol&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=singwa hamkke - joewa beol&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=singwa hamkke - joewa beol",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=singwa hamkke - joewa beol",
   },
   {
     id: 3,
@@ -40,11 +34,9 @@ const quiz = [
     answer: "국제시장",
     length_hint: "OOOO",
     pronunciation: "gugjesijang",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gugjesijang&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gugjesijang&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gugjesijang",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gugjesijang",
   },
   {
     id: 4,
@@ -52,11 +44,9 @@ const quiz = [
     answer: "도둑들",
     length_hint: "OOO",
     pronunciation: "dodugdeul",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=dodugdeul&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=dodugdeul&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=dodugdeul",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=dodugdeul",
   },
   {
     id: 5,
@@ -64,11 +54,9 @@ const quiz = [
     answer: "7번 방의 선물",
     length_hint: "OO OO OO",
     pronunciation: "chilbeon bang-ui seonmul",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=chilbeon bang-ui seonmul&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=chilbeon bang-ui seonmul&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=chilbeon bang-ui seonmul",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=chilbeon bang-ui seonmul",
   },
   {
     id: 6,
@@ -76,11 +64,9 @@ const quiz = [
     answer: "암살",
     length_hint: "OO",
     pronunciation: "amsal",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=amsal&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=amsal&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=amsal",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=amsal",
   },
   {
     id: 7,
@@ -88,11 +74,9 @@ const quiz = [
     answer: "광해 왕이 된 남자",
     length_hint: "OO OO O OO",
     pronunciation: "gwanghae wang-i doen namja",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gwanghae wang-i doen namja&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gwanghae wang-i doen namja&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gwanghae wang-i doen namja",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gwanghae wang-i doen namja",
   },
   {
     id: 8,
@@ -100,11 +84,9 @@ const quiz = [
     answer: "신과 함께 - 인과 연",
     length_hint: "OO OO - OO O",
     pronunciation: "singwa hamkke - ingwa yeon",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=singwa hamkke - ingwa yeon&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=singwa hamkke - ingwa yeon&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=singwa hamkke - ingwa yeon",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=singwa hamkke - ingwa yeon",
   },
   {
     id: 9,
@@ -112,11 +94,9 @@ const quiz = [
     answer: "택시운전사",
     length_hint: "OOOOO",
     pronunciation: "taegsiunjeonsa",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=taegsiunjeonsa&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=taegsiunjeonsa&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=taegsiunjeonsa",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=taegsiunjeonsa",
   },
   {
     id: 10,
@@ -124,11 +104,9 @@ const quiz = [
     answer: "부산행",
     length_hint: "OOO",
     pronunciation: "busanhaeng",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=busanhaeng&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=busanhaeng&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=busanhaeng",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=busanhaeng",
   },
   {
     id: 11,
@@ -136,11 +114,9 @@ const quiz = [
     answer: "변호인",
     length_hint: "OOO",
     pronunciation: "byeonhoin",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=byeonhoin&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=byeonhoin&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=byeonhoin",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=byeonhoin",
   },
   {
     id: 12,
@@ -148,11 +124,9 @@ const quiz = [
     answer: "해운대",
     length_hint: "OOO",
     pronunciation: "haeundae",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=haeundae&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=haeundae&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=haeundae",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=haeundae",
   },
   {
     id: 13,
@@ -160,11 +134,9 @@ const quiz = [
     answer: "괴물",
     length_hint: "OO",
     pronunciation: "goemul",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=goemul&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=goemul&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=goemul",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=goemul",
   },
   {
     id: 14,
@@ -172,11 +144,9 @@ const quiz = [
     answer: "왕의 남자",
     length_hint: "OO OO",
     pronunciation: "wang-ui namja",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=wang-ui namja&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=wang-ui namja&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=wang-ui namja",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=wang-ui namja",
   },
   {
     id: 15,
@@ -184,11 +154,9 @@ const quiz = [
     answer: "기생충",
     length_hint: "OOO",
     pronunciation: "gisaengchung",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gisaengchung&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gisaengchung&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gisaengchung",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gisaengchung",
   },
   {
     id: 16,
@@ -196,11 +164,9 @@ const quiz = [
     answer: "검사외전",
     length_hint: "OOOO",
     pronunciation: "geomsaoejeon",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=geomsaoejeon&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=geomsaoejeon&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=geomsaoejeon",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=geomsaoejeon",
   },
   {
     id: 17,
@@ -208,11 +174,9 @@ const quiz = [
     answer: "설국열차",
     length_hint: "OOOO",
     pronunciation: "seolgug-yeolcha",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=seolgug-yeolcha&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=seolgug-yeolcha&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=seolgug-yeolcha",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=seolgug-yeolcha",
   },
   {
     id: 18,
@@ -220,11 +184,9 @@ const quiz = [
     answer: "관상",
     length_hint: "OO",
     pronunciation: "gwansang",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gwansang&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gwansang&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gwansang",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gwansang",
   },
   {
     id: 19,
@@ -232,11 +194,9 @@ const quiz = [
     answer: "해적: 바다로 간 산적",
     length_hint: "OO: OOO O OO",
     pronunciation: "haejeog: badalo gan sanjeog",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=haejeog: badalo gan sanjeog&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=haejeog: badalo gan sanjeog&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=haejeog: badalo gan sanjeog",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=haejeog: badalo gan sanjeog",
   },
   {
     id: 20,
@@ -244,11 +204,9 @@ const quiz = [
     answer: "수상한 그녀",
     length_hint: "OOO OO",
     pronunciation: "susanghan geunyeo",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=susanghan geunyeo&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=susanghan geunyeo&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=susanghan geunyeo",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=susanghan geunyeo",
   },
   {
     id: 21,
@@ -256,11 +214,9 @@ const quiz = [
     answer: "백두산",
     length_hint: "OOO",
     pronunciation: "baegdusan",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=baegdusan&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=baegdusan&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=baegdusan",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=baegdusan",
   },
   {
     id: 22,
@@ -268,11 +224,9 @@ const quiz = [
     answer: "과속 스캔들",
     length_hint: "OO OOO",
     pronunciation: "gwasog seukaendeul",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gwasog seukaendeul&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gwasog seukaendeul&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gwasog seukaendeul",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gwasog seukaendeul",
   },
   {
     id: 23,
@@ -280,11 +234,9 @@ const quiz = [
     answer: "국가대표",
     length_hint: "OOOO",
     pronunciation: "guggadaepyo",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=guggadaepyo&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=guggadaepyo&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=guggadaepyo",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=guggadaepyo",
   },
   {
     id: 24,
@@ -292,11 +244,9 @@ const quiz = [
     answer: "공조",
     length_hint: "OO",
     pronunciation: "gongjo",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gongjo&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gongjo&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gongjo",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gongjo",
   },
   {
     id: 25,
@@ -304,11 +254,9 @@ const quiz = [
     answer: "밀정",
     length_hint: "OO",
     pronunciation: "miljeong",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=miljeong&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=miljeong&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=miljeong",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=miljeong",
   },
   {
     id: 26,
@@ -316,11 +264,9 @@ const quiz = [
     answer: "최종병기 활",
     length_hint: "OOOO O",
     pronunciation: "choejongbyeong-gi hwal",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=choejongbyeong-gi hwal&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=choejongbyeong-gi hwal&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=choejongbyeong-gi hwal",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=choejongbyeong-gi hwal",
   },
   {
     id: 27,
@@ -328,11 +274,9 @@ const quiz = [
     answer: "1987",
     length_hint: "OOOO",
     pronunciation: "ilgupalchil",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=ilgupalchil&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=ilgupalchil&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=ilgupalchil",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=ilgupalchil",
   },
   {
     id: 28,
@@ -340,11 +284,9 @@ const quiz = [
     answer: "내부자들",
     length_hint: "OOOO",
     pronunciation: "naebujadeul",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=naebujadeul&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=naebujadeul&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=naebujadeul",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=naebujadeul",
   },
   {
     id: 29,
@@ -352,11 +294,9 @@ const quiz = [
     answer: "인천상륙작전",
     length_hint: "OOOOOO",
     pronunciation: "incheonsanglyugjagjeon",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=incheonsanglyugjagjeon&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=incheonsanglyugjagjeon&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=incheonsanglyugjagjeon",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=incheonsanglyugjagjeon",
   },
   {
     id: 30,
@@ -364,11 +304,9 @@ const quiz = [
     answer: "은밀하게 위대하게",
     length_hint: "OOOO OOOO",
     pronunciation: "eunmilhage widaehage",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=eunmilhage widaehage&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=eunmilhage widaehage&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=eunmilhage widaehage",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=eunmilhage widaehage",
   },
   {
     id: 31,
@@ -376,11 +314,9 @@ const quiz = [
     answer: "범죄도시",
     length_hint: "OOOO",
     pronunciation: "beomjoedosi",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=beomjoedosi&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=beomjoedosi&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=beomjoedosi",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=beomjoedosi",
   },
   {
     id: 32,
@@ -388,11 +324,9 @@ const quiz = [
     answer: "곡성",
     length_hint: "OO",
     pronunciation: "gogseong",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gogseong&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gogseong&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gogseong",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gogseong",
   },
   {
     id: 33,
@@ -400,11 +334,9 @@ const quiz = [
     answer: "화려한 휴가",
     length_hint: "OOO OO",
     pronunciation: "hwalyeohan hyuga",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=hwalyeohan hyuga&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=hwalyeohan hyuga&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=hwalyeohan hyuga",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=hwalyeohan hyuga",
   },
   {
     id: 34,
@@ -412,11 +344,9 @@ const quiz = [
     answer: "좋은 놈, 나쁜 놈, 이상한 놈",
     length_hint: "OO O, OO O, OOO O",
     pronunciation: "joh-eun nom, nappeun nom, isanghan nom",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=joh-eun nom, nappeun nom, isanghan nom&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=joh-eun nom, nappeun nom, isanghan nom&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=joh-eun nom, nappeun nom, isanghan nom",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=joh-eun nom, nappeun nom, isanghan nom",
   },
   {
     id: 35,
@@ -424,11 +354,9 @@ const quiz = [
     answer: "늑대소년",
     length_hint: "OOOO",
     pronunciation: "neugdaesonyeon",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=neugdaesonyeon&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=neugdaesonyeon&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=neugdaesonyeon",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=neugdaesonyeon",
   },
   {
     id: 36,
@@ -436,11 +364,9 @@ const quiz = [
     answer: "군함도",
     length_hint: "OOO",
     pronunciation: "gunhamdo",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gunhamdo&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gunhamdo&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gunhamdo",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gunhamdo",
   },
   {
     id: 37,
@@ -448,11 +374,9 @@ const quiz = [
     answer: "웰컴 투 동막골",
     length_hint: "OO O OOO",
     pronunciation: "welkeom tu dongmaggol",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=welkeom tu dongmaggol&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=welkeom tu dongmaggol&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=welkeom tu dongmaggol",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=welkeom tu dongmaggol",
   },
   {
     id: 38,
@@ -460,11 +384,9 @@ const quiz = [
     answer: "사도",
     length_hint: "OO",
     pronunciation: "sado",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=sado&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=sado&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=sado",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=sado",
   },
   {
     id: 39,
@@ -472,11 +394,9 @@ const quiz = [
     answer: "아저씨",
     length_hint: "OOO",
     pronunciation: "ajeossi",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=ajeossi&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=ajeossi&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=ajeossi",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=ajeossi",
   },
   {
     id: 40,
@@ -484,11 +404,9 @@ const quiz = [
     answer: "미녀는 괴로워",
     length_hint: "OOO OOO",
     pronunciation: "minyeoneun goelowo",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=minyeoneun goelowo&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=minyeoneun goelowo&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=minyeoneun goelowo",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=minyeoneun goelowo",
   },
   {
     id: 41,
@@ -496,11 +414,9 @@ const quiz = [
     answer: "전우치",
     length_hint: "OOO",
     pronunciation: "jeon-uchi",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=jeon-uchi&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=jeon-uchi&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=jeon-uchi",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=jeon-uchi",
   },
   {
     id: 42,
@@ -508,11 +424,9 @@ const quiz = [
     answer: "연평해전",
     length_hint: "OOOO",
     pronunciation: "yeonpyeonghaejeon",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=yeonpyeonghaejeon&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=yeonpyeonghaejeon&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=yeonpyeonghaejeon",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=yeonpyeonghaejeon",
   },
   {
     id: 43,
@@ -520,11 +434,9 @@ const quiz = [
     answer: "타짜",
     length_hint: "OO",
     pronunciation: "tajja",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=tajja&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=tajja&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=tajja",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=tajja",
   },
   {
     id: 44,
@@ -532,11 +444,9 @@ const quiz = [
     answer: "청년경찰",
     length_hint: "OOOO",
     pronunciation: "cheongnyeongyeongchal",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=cheongnyeongyeongchal&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=cheongnyeongyeongchal&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=cheongnyeongyeongchal",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=cheongnyeongyeongchal",
   },
   {
     id: 45,
@@ -544,11 +454,9 @@ const quiz = [
     answer: "숨바꼭질",
     length_hint: "OOOO",
     pronunciation: "sumbakkogjil",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=sumbakkogjil&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=sumbakkogjil&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=sumbakkogjil",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=sumbakkogjil",
   },
   {
     id: 46,
@@ -556,11 +464,9 @@ const quiz = [
     answer: "덕혜옹주",
     length_hint: "OOOO",
     pronunciation: "deoghye-ongju",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=deoghye-ongju&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=deoghye-ongju&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=deoghye-ongju",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=deoghye-ongju",
   },
   {
     id: 47,
@@ -568,11 +474,9 @@ const quiz = [
     answer: "감시자들",
     length_hint: "OOOO",
     pronunciation: "gamsijadeul",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gamsijadeul&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gamsijadeul&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gamsijadeul",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gamsijadeul",
   },
   {
     id: 48,
@@ -580,11 +484,9 @@ const quiz = [
     answer: "검은 사제들",
     length_hint: "OO OOO",
     pronunciation: "geom-eun sajedeul",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=geom-eun sajedeul&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=geom-eun sajedeul&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=geom-eun sajedeul",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=geom-eun sajedeul",
   },
   {
     id: 49,
@@ -592,11 +494,9 @@ const quiz = [
     answer: "안시성",
     length_hint: "OOO",
     pronunciation: "ansiseong",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=ansiseong&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=ansiseong&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=ansiseong",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=ansiseong",
   },
   {
     id: 50,
@@ -604,11 +504,9 @@ const quiz = [
     answer: "의형제",
     length_hint: "OOO",
     pronunciation: "uihyeongje",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=uihyeongje&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=uihyeongje&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=uihyeongje",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=uihyeongje",
   },
   {
     id: 51,
@@ -616,11 +514,9 @@ const quiz = [
     answer: "완득이",
     length_hint: "OOO",
     pronunciation: "wandeug-i",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=wandeug-i&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=wandeug-i&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=wandeug-i",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=wandeug-i",
   },
   {
     id: 52,
@@ -628,11 +524,9 @@ const quiz = [
     answer: "완벽한 타인",
     length_hint: "OOO OO",
     pronunciation: "wanbyeoghan tain",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=wanbyeoghan tain&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=wanbyeoghan tain&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=wanbyeoghan tain",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=wanbyeoghan tain",
   },
   {
     id: 53,
@@ -640,11 +534,9 @@ const quiz = [
     answer: "투사부일체",
     length_hint: "OOOOO",
     pronunciation: "tusabu-ilche",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=tusabu-ilche&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=tusabu-ilche&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=tusabu-ilche",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=tusabu-ilche",
   },
   {
     id: 54,
@@ -652,11 +544,9 @@ const quiz = [
     answer: "독전",
     length_hint: "OO",
     pronunciation: "dogjeon",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=dogjeon&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=dogjeon&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=dogjeon",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=dogjeon",
   },
   {
     id: 55,
@@ -664,11 +554,9 @@ const quiz = [
     answer: "추격자",
     length_hint: "OOO",
     pronunciation: "chugyeogja",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=chugyeogja&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=chugyeogja&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=chugyeogja",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=chugyeogja",
   },
   {
     id: 56,
@@ -676,11 +564,9 @@ const quiz = [
     answer: "공작",
     length_hint: "OO",
     pronunciation: "gongjag",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gongjag&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gongjag&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gongjag",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gongjag",
   },
   {
     id: 57,
@@ -688,23 +574,19 @@ const quiz = [
     answer: "바람과 함께 사라지다",
     length_hint: "OOO OO OOOO",
     pronunciation: "balamgwa hamkke salajida",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=balamgwa hamkke salajida&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=balamgwa hamkke salajida&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=balamgwa hamkke salajida",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=balamgwa hamkke salajida",
   },
   {
     id: 58,
     theme: "korean_movie",
-    answer: "님아, 그 강을 건너지 마오",
+    answer: "님아, 그 강을 건너지 마오", 
     length_hint: "OO, O OO OOO OO",
     pronunciation: "nim-a, geu gang-eul geonneoji mao",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=nim-a, geu gang-eul geonneoji mao&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=nim-a, geu gang-eul geonneoji mao&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=nim-a, geu gang-eul geonneoji mao",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=nim-a, geu gang-eul geonneoji mao",
   },
   {
     id: 59,
@@ -712,11 +594,9 @@ const quiz = [
     answer: "봉오동 전투",
     length_hint: "OOO OO",
     pronunciation: "bong-odong jeontu",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=bong-odong jeontu&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=bong-odong jeontu&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=bong-odong jeontu",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=bong-odong jeontu",
   },
   {
     id: 60,
@@ -724,11 +604,9 @@ const quiz = [
     answer: "조선 명탐정: 각시투구꽃의 비밀",
     length_hint: "OO OOO: OOOOOO OO",
     pronunciation: "joseon myeongtamjeong: gagsitugukkoch-ui bimil",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=joseon myeongtamjeong: gagsitugukkoch-ui bimil&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=joseon myeongtamjeong: gagsitugukkoch-ui bimil&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=joseon myeongtamjeong: gagsitugukkoch-ui bimil",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=joseon myeongtamjeong: gagsitugukkoch-ui bimil",
   },
   {
     id: 61,
@@ -736,11 +614,9 @@ const quiz = [
     answer: "군도: 민란의 시대",
     length_hint: "OO: OOO OO",
     pronunciation: "gundo: minlan-ui sidae",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gundo: minlan-ui sidae&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gundo: minlan-ui sidae&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gundo: minlan-ui sidae",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gundo: minlan-ui sidae",
   },
   {
     id: 62,
@@ -748,11 +624,9 @@ const quiz = [
     answer: "남산의 부장들",
     length_hint: "OOO OOO",
     pronunciation: "namsan-ui bujangdeul",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=namsan-ui bujangdeul&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=namsan-ui bujangdeul&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=namsan-ui bujangdeul",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=namsan-ui bujangdeul",
   },
   {
     id: 63,
@@ -760,11 +634,9 @@ const quiz = [
     answer: "범죄와의 전쟁: 나쁜 놈들 전성시대",
     length_hint: "OOOO OO: OO OO OOOO",
     pronunciation: "beomjoewaui jeonjaeng: nappeun nomdeul jeonseongsidae",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=beomjoewaui jeonjaeng: nappeun nomdeul jeonseongsidae&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=beomjoewaui jeonjaeng: nappeun nomdeul jeonseongsidae&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=beomjoewaui jeonjaeng: nappeun nomdeul jeonseongsidae",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=beomjoewaui jeonjaeng: nappeun nomdeul jeonseongsidae",
   },
   {
     id: 64,
@@ -772,11 +644,9 @@ const quiz = [
     answer: "신세계",
     length_hint: "OOO",
     pronunciation: "sinsegye",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=sinsegye&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=sinsegye&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=sinsegye",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=sinsegye",
   },
   {
     id: 65,
@@ -784,11 +654,9 @@ const quiz = [
     answer: "도가니",
     length_hint: "OOO",
     pronunciation: "dogani",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=dogani&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=dogani&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=dogani",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=dogani",
   },
   {
     id: 66,
@@ -796,11 +664,9 @@ const quiz = [
     answer: "내 아내의 모든 것",
     length_hint: "O OOO OO O",
     pronunciation: "nae anaeui modeun geos",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=nae anaeui modeun geos&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=nae anaeui modeun geos&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=nae anaeui modeun geos",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=nae anaeui modeun geos",
   },
   {
     id: 67,
@@ -808,11 +674,9 @@ const quiz = [
     answer: "나쁜 녀석들: 더 무비",
     length_hint: "OO OOO: O OO",
     pronunciation: "nappeun nyeoseogdeul: deo mubi",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=nappeun nyeoseogdeul: deo mubi&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=nappeun nyeoseogdeul: deo mubi&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=nappeun nyeoseogdeul: deo mubi",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=nappeun nyeoseogdeul: deo mubi",
   },
   {
     id: 68,
@@ -820,11 +684,9 @@ const quiz = [
     answer: "가문의 영광",
     length_hint: "OOO OO",
     pronunciation: "gamun-ui yeong-gwang",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gamun-ui yeong-gwang&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gamun-ui yeong-gwang&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gamun-ui yeong-gwang",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gamun-ui yeong-gwang",
   },
   {
     id: 69,
@@ -832,11 +694,9 @@ const quiz = [
     answer: "연가시",
     length_hint: "OOO",
     pronunciation: "yeongasi",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=yeongasi&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=yeongasi&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=yeongasi",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=yeongasi",
   },
   {
     id: 70,
@@ -844,11 +704,9 @@ const quiz = [
     answer: "강철비",
     length_hint: "OOO",
     pronunciation: "gangcheolbi",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gangcheolbi&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gangcheolbi&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gangcheolbi",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gangcheolbi",
   },
   {
     id: 71,
@@ -856,11 +714,9 @@ const quiz = [
     answer: "공공의 적",
     length_hint: "OOO O",
     pronunciation: "gong-gong-ui jeog",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gong-gong-ui jeog&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gong-gong-ui jeog&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gong-gong-ui jeog",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gong-gong-ui jeog",
   },
   {
     id: 72,
@@ -868,11 +724,9 @@ const quiz = [
     answer: "아가씨",
     length_hint: "OOO",
     pronunciation: "agassi",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=agassi&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=agassi&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=agassi",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=agassi",
   },
   {
     id: 73,
@@ -880,11 +734,9 @@ const quiz = [
     answer: "말아톤",
     length_hint: "OOO",
     pronunciation: "mal-aton",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=mal-aton&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=mal-aton&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=mal-aton",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=mal-aton",
   },
   {
     id: 74,
@@ -892,11 +744,9 @@ const quiz = [
     answer: "용의자",
     length_hint: "OOO",
     pronunciation: "yong-uija",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=yong-uija&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=yong-uija&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=yong-uija",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=yong-uija",
   },
   {
     id: 75,
@@ -904,11 +754,9 @@ const quiz = [
     answer: "건축학개론",
     length_hint: "OOOOO",
     pronunciation: "geonchughaggaelon",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=geonchughaggaelon&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=geonchughaggaelon&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=geonchughaggaelon",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=geonchughaggaelon",
   },
   {
     id: 76,
@@ -916,11 +764,9 @@ const quiz = [
     answer: "7급 공무원",
     length_hint: "OO OOO",
     pronunciation: "chilgeub gongmuwon",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=chilgeub gongmuwon&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=chilgeub gongmuwon&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=chilgeub gongmuwon",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=chilgeub gongmuwon",
   },
   {
     id: 77,
@@ -928,11 +774,9 @@ const quiz = [
     answer: "우리 생애 최고의 순간",
     length_hint: "OO OO OOO OO",
     pronunciation: "uli saeng-ae choegoui sungan",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=uli saeng-ae choegoui sungan&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=uli saeng-ae choegoui sungan&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=uli saeng-ae choegoui sungan",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=uli saeng-ae choegoui sungan",
   },
   {
     id: 78,
@@ -940,11 +784,9 @@ const quiz = [
     answer: "박수건달",
     length_hint: "OOOO",
     pronunciation: "bagsugeondal",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=bagsugeondal&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=bagsugeondal&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=bagsugeondal",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=bagsugeondal",
   },
   {
     id: 79,
@@ -952,11 +794,9 @@ const quiz = [
     answer: "조선 명탐정: 사라진 놈의 딸",
     length_hint: "OO OOO: OOO OO O",
     pronunciation: "joseon myeongtamjeong: salajin nom-ui ttal",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=joseon myeongtamjeong: salajin nom-ui ttal&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=joseon myeongtamjeong: salajin nom-ui ttal&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=joseon myeongtamjeong: salajin nom-ui ttal",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=joseon myeongtamjeong: salajin nom-ui ttal",
   },
   {
     id: 80,
@@ -964,11 +804,9 @@ const quiz = [
     answer: "역린",
     length_hint: "OO",
     pronunciation: "yeoglin",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=yeoglin&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=yeoglin&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=yeoglin",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=yeoglin",
   },
   {
     id: 81,
@@ -976,11 +814,9 @@ const quiz = [
     answer: "남한산성",
     length_hint: "OOOO",
     pronunciation: "namhansanseong",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=namhansanseong&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=namhansanseong&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=namhansanseong",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=namhansanseong",
   },
   {
     id: 82,
@@ -988,11 +824,9 @@ const quiz = [
     answer: "암수살인",
     length_hint: "OOOO",
     pronunciation: "amsusal-in",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=amsusal-in&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=amsusal-in&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=amsusal-in",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=amsusal-in",
   },
   {
     id: 83,
@@ -1000,11 +834,9 @@ const quiz = [
     answer: "국가 부도의 날",
     length_hint: "OO OOO O",
     pronunciation: "gugga budoui nal",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gugga budoui nal&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gugga budoui nal&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gugga budoui nal",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gugga budoui nal",
   },
   {
     id: 84,
@@ -1012,11 +844,9 @@ const quiz = [
     answer: "쌍화점",
     length_hint: "OOO",
     pronunciation: "ssanghwajeom",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=ssanghwajeom&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=ssanghwajeom&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=ssanghwajeom",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=ssanghwajeom",
   },
   {
     id: 85,
@@ -1024,11 +854,9 @@ const quiz = [
     answer: "신기전",
     length_hint: "OOO",
     pronunciation: "singijeon",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=singijeon&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=singijeon&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=singijeon",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=singijeon",
   },
   {
     id: 86,
@@ -1036,11 +864,9 @@ const quiz = [
     answer: "귀향",
     length_hint: "OO",
     pronunciation: "gwihyang",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gwihyang&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gwihyang&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gwihyang",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gwihyang",
   },
   {
     id: 87,
@@ -1048,11 +874,9 @@ const quiz = [
     answer: "신의 한 수",
     length_hint: "OO O O",
     pronunciation: "sin-ui han su",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=sin-ui han su&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=sin-ui han su&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=sin-ui han su",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=sin-ui han su",
   },
   {
     id: 88,
@@ -1060,11 +884,9 @@ const quiz = [
     answer: "태풍",
     length_hint: "OO",
     pronunciation: "taepung",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=taepung&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=taepung&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=taepung",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=taepung",
   },
   {
     id: 89,
@@ -1072,11 +894,9 @@ const quiz = [
     answer: "부러진 화살",
     length_hint: "OOO OO",
     pronunciation: "buleojin hwasal",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=buleojin hwasal&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=buleojin hwasal&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=buleojin hwasal",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=buleojin hwasal",
   },
   {
     id: 90,
@@ -1084,11 +904,9 @@ const quiz = [
     answer: "끝까지 간다",
     length_hint: "OOO OO",
     pronunciation: "kkeutkkaji ganda",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=kkeutkkaji ganda&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=kkeutkkaji ganda&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=kkeutkkaji ganda",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=kkeutkkaji ganda",
   },
   {
     id: 91,
@@ -1096,11 +914,9 @@ const quiz = [
     answer: "그것만이 내 세상",
     length_hint: "OOOO O OO",
     pronunciation: "geugeosman-i nae sesang",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=geugeosman-i nae sesang&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=geugeosman-i nae sesang&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=geugeosman-i nae sesang",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=geugeosman-i nae sesang",
   },
   {
     id: 92,
@@ -1108,11 +924,9 @@ const quiz = [
     answer: "악인전",
     length_hint: "OOO",
     pronunciation: "ag-injeon",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=ag-injeon&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=ag-injeon&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=ag-injeon",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=ag-injeon",
   },
   {
     id: 93,
@@ -1120,11 +934,9 @@ const quiz = [
     answer: "이끼",
     length_hint: "OO",
     pronunciation: "ikki",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=ikki&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=ikki&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=ikki",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=ikki",
   },
   {
     id: 94,
@@ -1132,11 +944,9 @@ const quiz = [
     answer: "한반도",
     length_hint: "OOO",
     pronunciation: "hanbando",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=hanbando&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=hanbando&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=hanbando",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=hanbando",
   },
   {
     id: 95,
@@ -1144,11 +954,9 @@ const quiz = [
     answer: "포화속으로",
     length_hint: "OOOOO",
     pronunciation: "pohwasog-eulo",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=pohwasog-eulo&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=pohwasog-eulo&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=pohwasog-eulo",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=pohwasog-eulo",
   },
   {
     id: 96,
@@ -1156,11 +964,9 @@ const quiz = [
     answer: "시동",
     length_hint: "OO",
     pronunciation: "sidong",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=sidong&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=sidong&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=sidong",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=sidong",
   },
   {
     id: 97,
@@ -1168,11 +974,9 @@ const quiz = [
     answer: "마녀",
     length_hint: "OO",
     pronunciation: "manyeo",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=manyeo&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=manyeo&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=manyeo",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=manyeo",
   },
   {
     id: 98,
@@ -1180,11 +984,9 @@ const quiz = [
     answer: "탐정: 리턴즈",
     length_hint: "OO: OOO",
     pronunciation: "tamjeong: liteonjeu",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=tamjeong: liteonjeu&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=tamjeong: liteonjeu&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=tamjeong: liteonjeu",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=tamjeong: liteonjeu",
   },
   {
     id: 99,
@@ -1192,11 +994,9 @@ const quiz = [
     answer: "친절한 금자씨",
     length_hint: "OOO OOO",
     pronunciation: "chinjeolhan geumjassi",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=chinjeolhan geumjassi&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=chinjeolhan geumjassi&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=chinjeolhan geumjassi",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=chinjeolhan geumjassi",
   },
   {
     id: 100,
@@ -1204,11 +1004,9 @@ const quiz = [
     answer: "감기",
     length_hint: "OO",
     pronunciation: "gamgi",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gamgi&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gamgi&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gamgi",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gamgi",
   },
   {
     id: 101,
@@ -1216,11 +1014,9 @@ const quiz = [
     answer: "스물",
     length_hint: "OO",
     pronunciation: "seumul",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=seumul&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=seumul&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=seumul",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=seumul",
   },
   {
     id: 102,
@@ -1228,11 +1024,9 @@ const quiz = [
     answer: "거북이 달린다",
     length_hint: "OOO OOO",
     pronunciation: "geobug-i dallinda",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=geobug-i dallinda&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=geobug-i dallinda&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=geobug-i dallinda",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=geobug-i dallinda",
   },
   {
     id: 103,
@@ -1240,11 +1034,9 @@ const quiz = [
     answer: "오싹한 연애",
     length_hint: "OOO OO",
     pronunciation: "ossaghan yeon-ae",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=ossaghan yeon-ae&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=ossaghan yeon-ae&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=ossaghan yeon-ae",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=ossaghan yeon-ae",
   },
   {
     id: 104,
@@ -1252,11 +1044,9 @@ const quiz = [
     answer: "방자전",
     length_hint: "OOO",
     pronunciation: "bangjajeon",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=bangjajeon&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=bangjajeon&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=bangjajeon",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=bangjajeon",
   },
   {
     id: 105,
@@ -1264,11 +1054,9 @@ const quiz = [
     answer: "그놈 목소리",
     length_hint: "OO OOO",
     pronunciation: "geunom mogsoli",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=geunom mogsoli&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=geunom mogsoli&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=geunom mogsoli",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=geunom mogsoli",
   },
   {
     id: 106,
@@ -1276,11 +1064,9 @@ const quiz = [
     answer: "친구",
     length_hint: "OO",
     pronunciation: "chingu",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=chingu&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=chingu&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=chingu",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=chingu",
   },
   {
     id: 107,
@@ -1288,11 +1074,9 @@ const quiz = [
     answer: "식객",
     length_hint: "OO",
     pronunciation: "siggaeg",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=siggaeg&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=siggaeg&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=siggaeg",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=siggaeg",
   },
   {
     id: 108,
@@ -1300,11 +1084,9 @@ const quiz = [
     answer: "26년",
     length_hint: "OOO",
     pronunciation: "isib-yugnyeon",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=isib-yugnyeon&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=isib-yugnyeon&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=isib-yugnyeon",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=isib-yugnyeon",
   },
   {
     id: 109,
@@ -1312,11 +1094,9 @@ const quiz = [
     answer: "고지전",
     length_hint: "OOO",
     pronunciation: "gojijeon",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gojijeon&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gojijeon&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gojijeon",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gojijeon",
   },
   {
     id: 110,
@@ -1324,11 +1104,9 @@ const quiz = [
     answer: "워낭소리",
     length_hint: "OOOO",
     pronunciation: "wonangsoli",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=wonangsoli&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=wonangsoli&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=wonangsoli",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=wonangsoli",
   },
   {
     id: 111,
@@ -1336,11 +1114,9 @@ const quiz = [
     answer: "가장 보통의 연애",
     length_hint: "OO OOO OO",
     pronunciation: "gajang botong-ui yeon-ae",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gajang botong-ui yeon-ae&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gajang botong-ui yeon-ae&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gajang botong-ui yeon-ae",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gajang botong-ui yeon-ae",
   },
   {
     id: 112,
@@ -1348,11 +1124,9 @@ const quiz = [
     answer: "말모이",
     length_hint: "OOO",
     pronunciation: "malmoi",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=malmoi&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=malmoi&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=malmoi",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=malmoi",
   },
   {
     id: 113,
@@ -1360,11 +1134,9 @@ const quiz = [
     answer: "극비수사",
     length_hint: "OOOO",
     pronunciation: "geugbisusa",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=geugbisusa&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=geugbisusa&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=geugbisusa",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=geugbisusa",
   },
   {
     id: 114,
@@ -1372,11 +1144,9 @@ const quiz = [
     answer: "표적",
     length_hint: "OO",
     pronunciation: "pyojeog",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=pyojeog&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=pyojeog&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=pyojeog",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=pyojeog",
   },
   {
     id: 115,
@@ -1384,11 +1154,9 @@ const quiz = [
     answer: "너의 결혼식",
     length_hint: "OO OOO",
     pronunciation: "neoui gyeolhonsig",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=neoui gyeolhonsig&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=neoui gyeolhonsig&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=neoui gyeolhonsig",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=neoui gyeolhonsig",
   },
   {
     id: 116,
@@ -1396,11 +1164,9 @@ const quiz = [
     answer: "내가 살인범이다",
     length_hint: "OO OOOOO",
     pronunciation: "naega sal-inbeom-ida",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=naega sal-inbeom-ida&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=naega sal-inbeom-ida&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=naega sal-inbeom-ida",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=naega sal-inbeom-ida",
   },
   {
     id: 117,
@@ -1408,11 +1174,9 @@ const quiz = [
     answer: "부당거래",
     length_hint: "OOOO",
     pronunciation: "budang-geolae",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=budang-geolae&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=budang-geolae&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=budang-geolae",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=budang-geolae",
   },
   {
     id: 118,
@@ -1420,11 +1184,9 @@ const quiz = [
     answer: "소원",
     length_hint: "OO",
     pronunciation: "sowon",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=sowon&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=sowon&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=sowon",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=sowon",
   },
   {
     id: 119,
@@ -1432,11 +1194,9 @@ const quiz = [
     answer: "너는 내 운명",
     length_hint: "OO O OO",
     pronunciation: "neoneun nae unmyeong",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=neoneun nae unmyeong&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=neoneun nae unmyeong&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=neoneun nae unmyeong",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=neoneun nae unmyeong",
   },
   {
     id: 120,
@@ -1444,11 +1204,9 @@ const quiz = [
     answer: "시라노: 연애 조작단",
     length_hint: "OOO: OO OOO",
     pronunciation: "silano: yeon-ae jojagdan",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=silano: yeon-ae jojagdan&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=silano: yeon-ae jojagdan&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=silano: yeon-ae jojagdan",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=silano: yeon-ae jojagdan",
   },
   {
     id: 121,
@@ -1456,11 +1214,9 @@ const quiz = [
     answer: "곤지암",
     length_hint: "OOO",
     pronunciation: "gonjiam",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gonjiam&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gonjiam&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gonjiam",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gonjiam",
   },
   {
     id: 122,
@@ -1468,11 +1224,9 @@ const quiz = [
     answer: "살인자의 기억법",
     length_hint: "OOOO OOO",
     pronunciation: "sal-injaui gieogbeob",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=sal-injaui gieogbeob&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=sal-injaui gieogbeob&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=sal-injaui gieogbeob",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=sal-injaui gieogbeob",
   },
   {
     id: 123,
@@ -1480,11 +1234,9 @@ const quiz = [
     answer: "마파도",
     length_hint: "OOO",
     pronunciation: "mapado",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=mapado&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=mapado&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=mapado",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=mapado",
   },
   {
     id: 124,
@@ -1492,11 +1244,9 @@ const quiz = [
     answer: "후궁: 제왕의 첩",
     length_hint: "OO: OOO O",
     pronunciation: "hugung: jewang-ui cheob",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=hugung: jewang-ui cheob&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=hugung: jewang-ui cheob&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=hugung: jewang-ui cheob",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=hugung: jewang-ui cheob",
   },
   {
     id: 125,
@@ -1504,11 +1254,9 @@ const quiz = [
     answer: "탐정: 더 비기닝",
     length_hint: "OO: O OOO",
     pronunciation: "tamjeong: deo bigining",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=tamjeong: deo bigining&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=tamjeong: deo bigining&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=tamjeong: deo bigining",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=tamjeong: deo bigining",
   },
   {
     id: 126,
@@ -1516,11 +1264,9 @@ const quiz = [
     answer: "지금 만나러 갑니다",
     length_hint: "OO OOO OOO",
     pronunciation: "jigeum mannaleo gabnida",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=jigeum mannaleo gabnida&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=jigeum mannaleo gabnida&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=jigeum mannaleo gabnida",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=jigeum mannaleo gabnida",
   },
   {
     id: 127,
@@ -1528,11 +1274,9 @@ const quiz = [
     answer: "위험한 상견례",
     length_hint: "OOO OOO",
     pronunciation: "wiheomhan sang-gyeonlye",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=wiheomhan sang-gyeonlye&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=wiheomhan sang-gyeonlye&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=wiheomhan sang-gyeonlye",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=wiheomhan sang-gyeonlye",
   },
   {
     id: 128,
@@ -1540,11 +1284,9 @@ const quiz = [
     answer: "보안관",
     length_hint: "OOO",
     pronunciation: "boangwan",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=boangwan&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=boangwan&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=boangwan",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=boangwan",
   },
   {
     id: 129,
@@ -1552,11 +1294,9 @@ const quiz = [
     answer: "기술자들",
     length_hint: "OOOO",
     pronunciation: "gisuljadeul",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gisuljadeul&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gisuljadeul&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gisuljadeul",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gisuljadeul",
   },
   {
     id: 130,
@@ -1564,11 +1304,9 @@ const quiz = [
     answer: "태극기 휘날리며",
     length_hint: "OOO OOOO",
     pronunciation: "taegeuggi hwinallimyeo",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=taegeuggi hwinallimyeo&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=taegeuggi hwinallimyeo&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=taegeuggi hwinallimyeo",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=taegeuggi hwinallimyeo",
   },
   {
     id: 131,
@@ -1576,11 +1314,9 @@ const quiz = [
     answer: "1번가의 기적",
     length_hint: "OOOO OO",
     pronunciation: "ilbeongaui gijeog",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=ilbeongaui gijeog&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=ilbeongaui gijeog&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=ilbeongaui gijeog",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=ilbeongaui gijeog",
   },
   {
     id: 132,
@@ -1588,11 +1324,9 @@ const quiz = [
     answer: "증인",
     length_hint: "OO",
     pronunciation: "jeung-in",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=jeung-in&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=jeung-in&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=jeung-in",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=jeung-in",
   },
   {
     id: 133,
@@ -1600,11 +1334,9 @@ const quiz = [
     answer: "목격자",
     length_hint: "OOO",
     pronunciation: "moggyeogja",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=moggyeogja&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=moggyeogja&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=moggyeogja",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=moggyeogja",
   },
   {
     id: 134,
@@ -1612,11 +1344,9 @@ const quiz = [
     answer: "조작된 도시",
     length_hint: "OOO OO",
     pronunciation: "jojagdoen dosi",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=jojagdoen dosi&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=jojagdoen dosi&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=jojagdoen dosi",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=jojagdoen dosi",
   },
   {
     id: 135,
@@ -1624,11 +1354,9 @@ const quiz = [
     answer: "반창꼬",
     length_hint: "OOO",
     pronunciation: "banchangkko",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=banchangkko&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=banchangkko&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=banchangkko",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=banchangkko",
   },
   {
     id: 136,
@@ -1636,11 +1364,9 @@ const quiz = [
     answer: "우리들의 행복한 시간",
     length_hint: "OOOO OOO OO",
     pronunciation: "ulideul-ui haengboghan sigan",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=ulideul-ui haengboghan sigan&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=ulideul-ui haengboghan sigan&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=ulideul-ui haengboghan sigan",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=ulideul-ui haengboghan sigan",
   },
   {
     id: 137,
@@ -1648,11 +1374,9 @@ const quiz = [
     answer: "조선 명탐정: 흡혈괴마의 비밀",
     length_hint: "OO OOO: OOOOO OO",
     pronunciation: "joseon myeongtamjeong: heubhyeolgoemaui bimil",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=joseon myeongtamjeong: heubhyeolgoemaui bimil&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=joseon myeongtamjeong: heubhyeolgoemaui bimil&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=joseon myeongtamjeong: heubhyeolgoemaui bimil",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=joseon myeongtamjeong: heubhyeolgoemaui bimil",
   },
   {
     id: 138,
@@ -1660,11 +1384,9 @@ const quiz = [
     answer: "화차",
     length_hint: "OO",
     pronunciation: "hwacha",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=hwacha&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=hwacha&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=hwacha",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=hwacha",
   },
   {
     id: 139,
@@ -1672,11 +1394,9 @@ const quiz = [
     answer: "이웃사랑",
     length_hint: "OOOO",
     pronunciation: "ius-salang",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=ius-salang&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=ius-salang&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=ius-salang",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=ius-salang",
   },
   {
     id: 140,
@@ -1684,11 +1404,9 @@ const quiz = [
     answer: "재심",
     length_hint: "OO",
     pronunciation: "jaesim",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=jaesim&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=jaesim&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=jaesim",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=jaesim",
   },
   {
     id: 141,
@@ -1696,11 +1414,9 @@ const quiz = [
     answer: "화이: 괴물을 삼킨 아이",
     length_hint: "OO: OOO OO OO",
     pronunciation: "hwai: goemul-eul samkin ai",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=hwai: goemul-eul samkin ai&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=hwai: goemul-eul samkin ai&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=hwai: goemul-eul samkin ai",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=hwai: goemul-eul samkin ai",
   },
   {
     id: 142,
@@ -1708,11 +1424,9 @@ const quiz = [
     answer: "의뢰인",
     length_hint: "OOO",
     pronunciation: "uiloein",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=uiloein&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=uiloein&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=uiloein",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=uiloein",
   },
   {
     id: 143,
@@ -1720,11 +1434,9 @@ const quiz = [
     answer: "박열",
     length_hint: "OO",
     pronunciation: "bag-yeol",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=bag-yeol&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=bag-yeol&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=bag-yeol",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=bag-yeol",
   },
   {
     id: 144,
@@ -1732,11 +1444,9 @@ const quiz = [
     answer: "미인도",
     length_hint: "OOO",
     pronunciation: "miindo",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=miindo&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=miindo&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=miindo",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=miindo",
   },
   {
     id: 145,
@@ -1744,11 +1454,9 @@ const quiz = [
     answer: "음란서생",
     length_hint: "OOOO",
     pronunciation: "eumlanseosaeng",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=eumlanseosaeng&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=eumlanseosaeng&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=eumlanseosaeng",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=eumlanseosaeng",
   },
   {
     id: 146,
@@ -1756,11 +1464,9 @@ const quiz = [
     answer: "내 생애 가장 아름다운 일주일",
     length_hint: "O OO OO OOOO OOO",
     pronunciation: "nae saeng-ae gajang aleumdaun ilju-il",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=nae saeng-ae gajang aleumdaun ilju-il&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=nae saeng-ae gajang aleumdaun ilju-il&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=nae saeng-ae gajang aleumdaun ilju-il",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=nae saeng-ae gajang aleumdaun ilju-il",
   },
   {
     id: 147,
@@ -1768,11 +1474,9 @@ const quiz = [
     answer: "하녀",
     length_hint: "OO",
     pronunciation: "hanyeo",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=hanyeo&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=hanyeo&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=hanyeo",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=hanyeo",
   },
   {
     id: 148,
@@ -1780,11 +1484,9 @@ const quiz = [
     answer: "황해",
     length_hint: "OO",
     pronunciation: "hwanghae",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=hwanghae&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=hwanghae&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=hwanghae",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=hwanghae",
   },
   {
     id: 149,
@@ -1792,11 +1494,9 @@ const quiz = [
     answer: "7광구",
     length_hint: "OOO",
     pronunciation: "chilgwang-gu",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=chilgwang-gu&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=chilgwang-gu&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=chilgwang-gu",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=chilgwang-gu",
   },
   {
     id: 150,
@@ -1804,11 +1504,9 @@ const quiz = [
     answer: "박쥐",
     length_hint: "OO",
     pronunciation: "bagjwi",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=bagjwi&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=bagjwi&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=bagjwi",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=bagjwi",
   },
   {
     id: 151,
@@ -1816,11 +1514,9 @@ const quiz = [
     answer: "마당을 나온 암탉",
     length_hint: "OOO OO OO",
     pronunciation: "madang-eul naon amtalg",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=madang-eul naon amtalg&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=madang-eul naon amtalg&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=madang-eul naon amtalg",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=madang-eul naon amtalg",
   },
   {
     id: 152,
@@ -1828,11 +1524,9 @@ const quiz = [
     answer: "악의 연대기",
     length_hint: "OO OOO",
     pronunciation: "ag-ui yeondaegi",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=ag-ui yeondaegi&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=ag-ui yeondaegi&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=ag-ui yeondaegi",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=ag-ui yeondaegi",
   },
   {
     id: 153,
@@ -1840,11 +1534,9 @@ const quiz = [
     answer: "강남 1970",
     length_hint: "OO OOOO",
     pronunciation: "gangnam ilguchilgong",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gangnam ilguchilgong&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=gangnam ilguchilgong&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gangnam ilguchilgong",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=gangnam ilguchilgong",
   },
   {
     id: 154,
@@ -1852,11 +1544,9 @@ const quiz = [
     answer: "신의 한 수: 귀수편",
     length_hint: "OO O O: OOO",
     pronunciation: "sin-ui han su: gwisupyeon",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=sin-ui han su: gwisupyeon&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=sin-ui han su: gwisupyeon&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=sin-ui han su: gwisupyeon",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=sin-ui han su: gwisupyeon",
   },
   {
     id: 155,
@@ -1864,11 +1554,9 @@ const quiz = [
     answer: "나의 사랑 나의 신부",
     length_hint: "OO OO OO OO",
     pronunciation: "naui salang naui sinbu",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=naui salang naui sinbu&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=naui salang naui sinbu&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=naui salang naui sinbu",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=naui salang naui sinbu",
   },
   {
     id: 156,
@@ -1876,11 +1564,9 @@ const quiz = [
     answer: "바르게 살자",
     length_hint: "OOO OO",
     pronunciation: "baleuge salja",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=baleuge salja&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=baleuge salja&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=baleuge salja",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=baleuge salja",
   },
   {
     id: 157,
@@ -1888,11 +1574,9 @@ const quiz = [
     answer: "내 사랑 내 곁에",
     length_hint: "O OO O OO",
     pronunciation: "nae salang nae gyeot-e",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=nae salang nae gyeot-e&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=nae salang nae gyeot-e&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=nae salang nae gyeot-e",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=nae salang nae gyeot-e",
   },
   {
     id: 158,
@@ -1900,11 +1584,9 @@ const quiz = [
     answer: "초능력자",
     length_hint: "OOOO",
     pronunciation: "choneunglyeogja",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=choneunglyeogja&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=choneunglyeogja&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=choneunglyeogja",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=choneunglyeogja",
   },
   {
     id: 159,
@@ -1912,10 +1594,1272 @@ const quiz = [
     answer: "명당",
     length_hint: "OO",
     pronunciation: "myeongdang",
-    gfile_path:
-      "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=myeongdang&tl=en",
+    gfile_path: "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=myeongdang&tl=en",
     nfile_path: "",
-    kfile_path:
-      "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=myeongdang",
+    kfile_path: "https://tts-translate.kakao.com/read?format=wav-21k&lang=en&txt=myeongdang",
+  },
+  { 
+    id: 160, 
+    theme: "korean_drama", 
+    answer: "나의 아저씨", 
+    length_hint: "OO OOO", 
+    pronunciation: "naui ajeossi", 
+    year: 2018 
+  },
+  { 
+    id: 161, 
+    theme: "korean_drama", 
+    answer: "킹덤", 
+    length_hint: "OO", 
+    pronunciation: "kingdeom", 
+    year: "2019 ~ 2020" 
+  },
+  { 
+    id: 162, 
+    theme: "korean_drama", 
+    answer: "인간수업", 
+    length_hint: "OOOO", 
+    pronunciation: "ingansueop", 
+    year: "2020" 
+  },
+  { 
+    id: 163, 
+    theme: "korean_drama", 
+    answer: "동백꽃 필 무렵", 
+    length_hint: "OOO O OO", 
+    pronunciation: "dongbaekkkot pil muryeop", 
+    year: "2019" 
+  },
+  { 
+    id: 164, 
+    theme: "korean_drama", 
+    answer: "보건교사 안은영", 
+    length_hint: "OOOO OOO", 
+    pronunciation: "bogeongyosa aneunyeong", 
+    year: "2020" 
+  },
+  { 
+    id: 165, 
+    theme: "korean_drama", 
+    answer: "사랑의 불시착", 
+    length_hint: "OOO OOO", 
+    pronunciation: "sarangui bulsichak", 
+    year: "2020" 
+  },
+  { 
+    id: 166, 
+    theme: "korean_drama", 
+    answer: "쓸쓸하고 찬란하신 도깨비", 
+    length_hint: "OOOO OOOO OOO", 
+    pronunciation: "sseulsseulhago chanranhasin dokkaebi", 
+    year: "2017" 
+  },
+  { 
+    id: 167, 
+    theme: "korean_drama", 
+    answer: "보좌관", 
+    length_hint: "OOO", 
+    pronunciation: "bojwagwan", 
+    year: "2019" 
+  },
+  { 
+    id: 168, 
+    theme: "korean_drama", 
+    answer: "검사내전", 
+    length_hint: "OOOO", 
+    pronunciation: "geomsanaejeon", 
+    year: "2020" 
+  },
+  { 
+    id: 169, 
+    theme: "korean_drama", 
+    answer: "악의 꽃", 
+    length_hint: "OO O", 
+    pronunciation: "agui kkot", 
+    year: "2020" 
+  },
+  { 
+    id: 170, 
+    theme: "korean_drama", 
+    answer: "스토브리그", 
+    length_hint: "OOOOO", 
+    pronunciation: "seutobeurigeu", 
+    year: "2020" 
+  },
+  { 
+    id: 171, 
+    theme: "korean_drama", 
+    answer: "굿와이프", 
+    length_hint: "OOOO", 
+    pronunciation: "guswaipeu", 
+    year: "2016" 
+  },
+  { 
+    id: 172, 
+    theme: "korean_drama", 
+    answer: "슬기로운 감빵생활", 
+    length_hint: "OOOO OOOO", 
+    pronunciation: "seulgiroun gamppangsaenghwal", 
+    year: "2018" 
+  },
+  { 
+    id: 173, 
+    theme: "korean_drama", 
+    answer: "비밀의 숲", 
+    length_hint: "OOO O", 
+    pronunciation: "bimirui sup", 
+    year: "2017" 
+  },
+  { 
+    id: 174, 
+    theme: "korean_drama", 
+    answer: "VIP", 
+    length_hint: "OOO", 
+    pronunciation: "beuiaipi", 
+    year: "2019" 
+  },
+  { 
+    id: 175, 
+    theme: "korean_drama", 
+    answer: "닥터 프리즈너", 
+    length_hint: "OO OOOO", 
+    pronunciation: "dakteo peurijeuneo", 
+    year: "2019" 
+  },
+  { 
+    id: 176, 
+    theme: "korean_drama", 
+    answer: "부부의 세계", 
+    length_hint: "OOO OO", 
+    pronunciation: "bubuui segye", 
+    year: "2020" 
+  },
+  { 
+    id: 177, 
+    theme: "korean_drama", 
+    answer: "스카이 캐슬", 
+    length_hint: "OOO OO", 
+    pronunciation: "seukai kaeseul", 
+    year: "2018" 
+  },
+  { 
+    id: 178, 
+    theme: "korean_drama", 
+    answer: "아내의 자격", 
+    length_hint: "OOO OO", 
+    pronunciation: "anaeui jagyeok", 
+    year: "2012" 
+  },
+  { 
+    id: 179, 
+    theme: "korean_drama", 
+    answer: "프로듀사", 
+    length_hint: "OOOO", 
+    pronunciation: "peurodyusa", 
+    year: "2015" 
+  },
+  { 
+    id: 180, 
+    theme: "korean_drama", 
+    answer: "이번주 아내가 바람을 핍니다", 
+    length_hint: "OOO OOO OOO OOO", 
+    pronunciation: "ibeonju anaega barameul pipnida", 
+    year: "2016" 
+  },
+  { 
+    id: 181, 
+    theme: "korean_drama", 
+    answer: "상속자들", 
+    length_hint: "OOOO", 
+    pronunciation: "sangsokjadeul", 
+    year: "2013" 
+  },
+  { 
+    id: 182, 
+    theme: "korean_drama", 
+    answer: "아내의 유혹", 
+    length_hint: "OOO OO", 
+    pronunciation: "anaeui yuhok", 
+    year: "2009" 
+  },
+  { 
+    id: 183, 
+    theme: "korean_drama", 
+    answer: "그들이 사는 세상", 
+    length_hint: "OOO OO OO", 
+    pronunciation: "geudeuri saneun sesang", 
+    year: "2008" 
+  },
+  { 
+    id: 184, 
+    theme: "korean_drama", 
+    answer: "나인", 
+    length_hint: "OO", 
+    pronunciation: "nain", 
+    year: "2013" 
+  },
+  { 
+    id: 185, 
+    theme: "korean_drama", 
+    answer: "찬란한 유산", 
+    length_hint: "OOO OO", 
+    pronunciation: "chanranhan yusan", 
+    year: "2009" 
+  },
+  { 
+    id: 186, 
+    theme: "korean_drama", 
+    answer: "호텔 델루나", 
+    length_hint: "OO OOO", 
+    pronunciation: "hotel delluna", 
+    year: "2019" 
+  },
+  { 
+    id: 187, 
+    theme: "korean_drama", 
+    answer: "연애의 발견", 
+    length_hint: "OOO OO", 
+    pronunciation: "yeonaeui balgyeon", 
+    year: "2014" 
+  },
+  { 
+    id: 188, 
+    theme: "korean_drama", 
+    answer: "최고의 한방", 
+    length_hint: "OOO OO", 
+    pronunciation: "choegoui hanbang", 
+    year: "2017" 
+  },
+  { 
+    id: 189, 
+    theme: "korean_drama", 
+    answer: "밀회", 
+    length_hint: "OO", 
+    pronunciation: "milhoe", 
+    year: "2014" 
+  },
+  { 
+    id: 190, 
+    theme: "korean_drama", 
+    answer: "커피프린스 1호점", 
+    length_hint: "OOOOO OOO", 
+    pronunciation: "keopipeurinseu 1hojeom", 
+    year: "2007" 
+  },
+  { 
+    id: 191, 
+    theme: "korean_drama", 
+    answer: "허준", 
+    length_hint: "OO", 
+    pronunciation: "heojun", 
+    year: "2000" 
+  },
+  { 
+    id: 192, 
+    theme: "korean_drama", 
+    answer: "멜로가 체질", 
+    length_hint: "OOO OO", 
+    pronunciation: "melloga chejil", 
+    year: "2019" 
+  },
+  { 
+    id: 193, 
+    theme: "korean_drama", 
+    answer: "미생", 
+    length_hint: "OO", 
+    pronunciation: "misaeng", 
+    year: "2014" 
+  },
+  { 
+    id: 194, 
+    theme: "korean_drama", 
+    answer: "로열패밀리", 
+    length_hint: "OOOOO", 
+    pronunciation: "royeolpaemilli", 
+    year: "2011" 
+  },
+  { 
+    id: 195, 
+    theme: "korean_drama", 
+    answer: "연애시대", 
+    length_hint: "OOOO", 
+    pronunciation: "yeonaesidae", 
+    year: "2006" 
+  },
+  { 
+    id: 196, 
+    theme: "korean_drama", 
+    answer: "하얀 거탑", 
+    length_hint: "OO OO", 
+    pronunciation: "hayan geotap", 
+    year: "2007" 
+  },
+  { 
+    id: 197, 
+    theme: "korean_drama", 
+    answer: "응답하라 1988", 
+    length_hint: "OOOO OOOO", 
+    pronunciation: "eungdaphara 1988", 
+    year: "2015" 
+  },
+  { 
+    id: 198, 
+    theme: "korean_drama", 
+    answer: "풍문으로 들었소", 
+    length_hint: "OOOO OOO", 
+    pronunciation: "pungmuneuro deureossso", 
+    year: "2015" 
+  },
+  { 
+    id: 199, 
+    theme: "korean_drama", 
+    answer: "품위있는 그녀", 
+    length_hint: "OOOO OO", 
+    pronunciation: "pumwiissneun geunyeo", 
+    year: "2017" 
+  },
+  { 
+    id: 200, 
+    theme: "korean_drama", 
+    answer: "자이언트", 
+    length_hint: "OOOO", 
+    pronunciation: "jaieonteu", 
+    year: "2010" 
+  },
+  { 
+    id: 201, 
+    theme: "korean_drama", 
+    answer: "라이프", 
+    length_hint: "OOO", 
+    pronunciation: "raipeu", 
+    year: "2018" 
+  },
+  { 
+    id: 202, 
+    theme: "korean_drama", 
+    answer: "미스터 션샤인", 
+    length_hint: "OOO OOO", 
+    pronunciation: "miseuteo syeonsyain", 
+    year: "2018" 
+  },
+  { 
+    id: 203, 
+    theme: "korean_drama", 
+    answer: "쌈!마이웨이", 
+    length_hint: "O!OOOO", 
+    pronunciation: "ssam!maiwei", 
+    year: "2017" 
+  },
+  { 
+    id: 204, 
+    theme: "korean_drama", 
+    answer: "별에서 온 그대", 
+    length_hint: "OOO O OO", 
+    pronunciation: "byeoreseo on geudae", 
+    year: "2014" 
+  },
+  { 
+    id: 205, 
+    theme: "korean_drama", 
+    answer: "치즈 인 더 트랩", 
+    length_hint: "OO O O OO", 
+    pronunciation: "chijeu in deo teuraep", 
+    year: "2016" 
+  },
+  { 
+    id: 206, 
+    theme: "korean_drama", 
+    answer: "푸른바다의 전설", 
+    length_hint: "OOOOO OO", 
+    pronunciation: "pureunbadaui jeonseol", 
+    year: "2017" 
+  },
+  { 
+    id: 207, 
+    theme: "korean_drama", 
+    answer: "38사기동대", 
+    length_hint: "OOOOOO", 
+    pronunciation: "38sagidongdae", 
+    year: "2016" 
+  },
+  { 
+    id: 208, 
+    theme: "korean_drama", 
+    answer: "시그널", 
+    length_hint: "OOO", 
+    pronunciation: "sigeuneol", 
+    year: "2016" 
+  },
+  { 
+    id: 209, 
+    theme: "korean_drama", 
+    answer: "혼술남녀", 
+    length_hint: "OOOO", 
+    pronunciation: "honsulnamnyeo", 
+    year: "2016" 
+  },
+  { 
+    id: 210, 
+    theme: "korean_drama", 
+    answer: "왕이된 남자", 
+    length_hint: "OOO OO", 
+    pronunciation: "wangidoen namja", 
+    year: "2019" 
+  },
+  { 
+    id: 211, 
+    theme: "korean_drama", 
+    answer: "최고의 사랑", 
+    length_hint: "OOO OO", 
+    pronunciation: "choegoui sarang", 
+    year: "2011" 
+  },
+  { 
+    id: 212, 
+    theme: "korean_drama", 
+    answer: "온에어", 
+    length_hint: "OOO", 
+    pronunciation: "oneeo", 
+    year: "2008" 
+  },
+  { 
+    id: 213, 
+    theme: "korean_drama", 
+    answer: "마이 프린세스", 
+    length_hint: "OO OOOO", 
+    pronunciation: "mai peurinseseu", 
+    year: "2011" 
+  },
+  { 
+    id: 214, 
+    theme: "korean_drama", 
+    answer: "아르곤", 
+    length_hint: "OOO", 
+    pronunciation: "areugon", 
+    year: "2017" 
+  },
+  { 
+    id: 215, 
+    theme: "korean_drama", 
+    answer: "슬기로운 의사생활", 
+    length_hint: "OOOO OOOO", 
+    pronunciation: "seulgiroun uisasaenghwal", 
+    year: "2020" 
+  },
+  { 
+    id: 216, 
+    theme: "korean_drama", 
+    answer: "돈꽃", 
+    length_hint: "OO", 
+    pronunciation: "donkkot", 
+    year: "2018" 
+  },
+  { 
+    id: 217, 
+    theme: "korean_drama", 
+    answer: "검법남녀", 
+    length_hint: "OOOO", 
+    pronunciation: "geombeopnamnyeo", 
+    year: "2018" 
+  },
+  { 
+    id: 218, 
+    theme: "korean_drama", 
+    answer: "옥탑방 고양이", 
+    length_hint: "OOO OOO", 
+    pronunciation: "oktapbang goyangi", 
+    year: "2003" 
+  },
+  { 
+    id: 219, 
+    theme: "korean_drama", 
+    answer: "구해줘", 
+    length_hint: "OOO", 
+    pronunciation: "guhaejwo", 
+    year: "2017" 
+  },
+  { 
+    id: 220, 
+    theme: "korean_drama", 
+    answer: "사랑하는 은동아", 
+    length_hint: "OOOO OOO", 
+    pronunciation: "saranghaneun eundonga", 
+    year: "2015" 
+  },
+  { 
+    id: 221, 
+    theme: "korean_drama", 
+    answer: "뿌리깊은 나무", 
+    length_hint: "OOOO OO", 
+    pronunciation: "ppurigipeun namu", 
+    year: "2011" 
+  },
+  { 
+    id: 222, 
+    theme: "korean_drama", 
+    answer: "펀치", 
+    length_hint: "OO", 
+    pronunciation: "peonchi", 
+    year: "2014" 
+  },
+  { 
+    id: 223, 
+    theme: "korean_drama", 
+    answer: "국민여러분", 
+    length_hint: "OOOOO", 
+    pronunciation: "gukminyeoreobun", 
+    year: "2019" 
+  },
+  { 
+    id: 224, 
+    theme: "korean_drama", 
+    answer: "청춘시대", 
+    length_hint: "OOOO", 
+    pronunciation: "cheongchunsidae", 
+    year: "2016, 2017" 
+  },
+  { 
+    id: 225, 
+    theme: "korean_drama", 
+    answer: "산후조리원", 
+    length_hint: "OOOOO", 
+    pronunciation: "sanhujoriwon", 
+    year: "2020" 
+  },
+  { 
+    id: 226, 
+    theme: "korean_drama", 
+    answer: "쌉니다 천리마마트", 
+    length_hint: "OOO OOOOO", 
+    pronunciation: "ssapnida cheonrimamateu", 
+    year: "2019" 
+  },
+  { 
+    id: 227, 
+    theme: "korean_drama", 
+    answer: "빅이슈", 
+    length_hint: "OOO", 
+    pronunciation: "bigisyu", 
+    year: "2019" 
+  },
+  { 
+    id: 228, 
+    theme: "korean_drama", 
+    answer: "슈츠", 
+    length_hint: "OO", 
+    pronunciation: "syucheu", 
+    year: "2018" 
+  },
+  { 
+    id: 229, 
+    theme: "korean_drama", 
+    answer: "아는 와이프", 
+    length_hint: "OO OOO", 
+    pronunciation: "aneun waipeu", 
+    year: "2018" 
+  },
+  { 
+    id: 230, 
+    theme: "korean_drama", 
+    answer: "모범형사", 
+    length_hint: "OOOO", 
+    pronunciation: "mobeomhyeongsa", 
+    year: "2020" 
+  },
+  { 
+    id: 231, 
+    theme: "korean_drama", 
+    answer: "아는 건 별로 없지만 가족입니다", 
+    length_hint: "OO O OO OOO OOOOO", 
+    pronunciation: "aneun geon byeollo eopsjiman gajogipnida", 
+    year: "2020" 
+  },
+  { 
+    id: 232, 
+    theme: "korean_drama", 
+    answer: "시크릿 가든", 
+    length_hint: "OOO OO", 
+    pronunciation: "sikeurit gadeun", 
+    year: "2010" 
+  },
+  { 
+    id: 233, 
+    theme: "korean_drama", 
+    answer: "운명처럼 널 사랑해", 
+    length_hint: "OOOO O OOO", 
+    pronunciation: "unmyeongcheoreom neol saranghae", 
+    year: "2014" 
+  },
+  { 
+    id: 234, 
+    theme: "korean_drama", 
+    answer: "눈이 부시게", 
+    length_hint: "OO OOO", 
+    pronunciation: "nuni busige", 
+    year: "2019" 
+  },
+  { 
+    id: 235, 
+    theme: "korean_drama", 
+    answer: "라이브", 
+    length_hint: "OOO", 
+    pronunciation: "raibeu", 
+    year: "2018" 
+  },
+  { 
+    id: 236, 
+    theme: "korean_drama", 
+    answer: "밥 잘 사주는 예쁜 누나", 
+    length_hint: "O O OOO OO OO", 
+    pronunciation: "bap jal sajuneun yeppeun nuna", 
+    year: "2018" 
+  },
+  { 
+    id: 237, 
+    theme: "korean_drama", 
+    answer: "To. Jenny", 
+    length_hint: "OO OOOO", 
+    pronunciation: "tu jeni", 
+    year: "2018" 
+  },
+  { 
+    id: 238, 
+    theme: "korean_drama", 
+    answer: "김비서가 왜 그럴까", 
+    length_hint: "OOOO O OOO", 
+    pronunciation: "gimbiseoga wae geureolkka", 
+    year: "2018" 
+  },
+  { 
+    id: 239, 
+    theme: "korean_drama", 
+    answer: "당신의 하우스헬퍼", 
+    length_hint: "OOO OOOOO", 
+    pronunciation: "dangsinui hauseuhelpeo", 
+    year: "2018" 
+  },
+  { 
+    id: 240, 
+    theme: "korean_drama", 
+    answer: "우리, 사랑했을까?", 
+    length_hint: "OO OOOOO?", 
+    pronunciation: "uri, saranghaesseulkka?", 
+    year: "2020" 
+  },
+  { 
+    id: 241, 
+    theme: "korean_drama", 
+    answer: "날씨가 좋으면 찾아가겠어요", 
+    length_hint: "OOO OOO OOOOOO", 
+    pronunciation: "nalssiga joheumyeon chajagagesseoyo", 
+    year: "2020" 
+  },
+  { 
+    id: 242, 
+    theme: "korean_drama", 
+    answer: "최고의 이혼", 
+    length_hint: "OOO OO", 
+    pronunciation: "choegoui ihon", 
+    year: "2018" 
+  },
+  { 
+    id: 243, 
+    theme: "korean_drama", 
+    answer: "스위트홈", 
+    length_hint: "OOOO", 
+    pronunciation: "seuwiteuhom", 
+    year: "2020" 
+  },
+  { 
+    id: 244, 
+    theme: "korean_drama", 
+    answer: "카이로스", 
+    length_hint: "OOOO", 
+    pronunciation: "kairoseu", 
+    year: "2020" 
+  },
+  { 
+    id: 245, 
+    theme: "korean_drama", 
+    answer: "끝에서 두번째 사랑", 
+    length_hint: "OOO OOO OO", 
+    pronunciation: "kkeuteseo dubeonjjae sarang", 
+    year: "2016" 
+  },
+  { 
+    id: 246, 
+    theme: "korean_drama", 
+    answer: "베이비시터", 
+    length_hint: "OOOOO", 
+    pronunciation: "beibisiteo", 
+    year: "2016" 
+  },
+  { 
+    id: 247, 
+    theme: "korean_drama", 
+    answer: "스타트업", 
+    length_hint: "OOOO", 
+    pronunciation: "seutateueop", 
+    year: "2020" 
+  },
+  { 
+    id: 248, 
+    theme: "korean_drama", 
+    answer: "하이에나", 
+    length_hint: "OOOO", 
+    pronunciation: "haiena", 
+    year: "2020" 
+  },
+  { 
+    id: 249, 
+    theme: "korean_drama", 
+    answer: "구르미 그린 달빛", 
+    length_hint: "OOO OO OO", 
+    pronunciation: "gureumi geurin dalbit", 
+    year: "2016" 
+  },
+  { 
+    id: 250, 
+    theme: "korean_drama", 
+    answer: "신의 저울", 
+    length_hint: "OO OO", 
+    pronunciation: "sinui jeoul", 
+    year: "2008" 
+  },
+  { 
+    id: 251, 
+    theme: "korean_drama", 
+    answer: "그겨울 바람이 분다", 
+    length_hint: "OOO OOO OO", 
+    pronunciation: "geugyeoul barami bunda", 
+    year: "2013" 
+  },
+  { 
+    id: 252, 
+    theme: "korean_drama", 
+    answer: "힘쎈 여자 도봉순", 
+    length_hint: "OO OO OOO", 
+    pronunciation: "himssen yeoja dobongsun", 
+    year: "2017" 
+  },
+  { 
+    id: 253, 
+    theme: "korean_drama", 
+    answer: "고백부부", 
+    length_hint: "OOOO", 
+    pronunciation: "gobaekbubu", 
+    year: "2017" 
+  },
+  { 
+    id: 254, 
+    theme: "korean_drama", 
+    answer: "란제리 소녀시대", 
+    length_hint: "OOO OOOO", 
+    pronunciation: "ranjeri sonyeosidae", 
+    year: "2017" 
+  },
+  { 
+    id: 255, 
+    theme: "korean_drama", 
+    answer: "9회말 투아웃", 
+    length_hint: "OOO OOO", 
+    pronunciation: "9hoemal tuaut", 
+    year: "2007" 
+  },
+  { 
+    id: 256, 
+    theme: "korean_drama", 
+    answer: "기억", 
+    length_hint: "OO", 
+    pronunciation: "gieok", 
+    year: "2016" 
+  },
+  { 
+    id: 257, 
+    theme: "korean_drama", 
+    answer: "수상한 파트너", 
+    length_hint: "OOO OOO", 
+    pronunciation: "susanghan pateuneo", 
+    year: "2017" 
+  },
+  { 
+    id: 258, 
+    theme: "korean_drama", 
+    answer: "이번생은 처음이라", 
+    length_hint: "OOOO OOOO", 
+    pronunciation: "ibeonsaengeun cheoeumira", 
+    year: "2017" 
+  },
+  { 
+    id: 259, 
+    theme: "korean_drama", 
+    answer: "내남자의 여자", 
+    length_hint: "OOOO OO", 
+    pronunciation: "naenamjaui yeoja", 
+    year: "2007" 
+  },
+  { 
+    id: 260, 
+    theme: "korean_drama", 
+    answer: "황금의 제국", 
+    length_hint: "OOO OO", 
+    pronunciation: "hwanggeumui jeguk", 
+    year: "2013" 
+  },
+  { 
+    id: 261, 
+    theme: "korean_drama", 
+    answer: "시트콤 하이킥 씨리즈 3부작", 
+    length_hint: "OOO OOO OOO OOO", 
+    pronunciation: "siteukom haikik ssirijeu 3bujak", 
+    year: "2006" 
+  },
+  { 
+    id: 262, 
+    theme: "korean_drama", 
+    answer: "봄밤", 
+    length_hint: "OO", 
+    pronunciation: "bombam", 
+    year: "2019" 
+  },
+  { 
+    id: 263, 
+    theme: "korean_drama", 
+    answer: "청춘기록", 
+    length_hint: "OOOO", 
+    pronunciation: "cheongchungirok", 
+    year: "2020" 
+  },
+  { 
+    id: 264, 
+    theme: "korean_drama", 
+    answer: "첫사랑은 처음이라서", 
+    length_hint: "OOOO OOOOO", 
+    pronunciation: "cheossarangeun cheoeumiraseo", 
+    year: "2019" 
+  },
+  { 
+    id: 265, 
+    theme: "korean_drama", 
+    answer: "검색어를 입력하세요 WWW", 
+    length_hint: "OOOO OOOOO OOO", 
+    pronunciation: "geomsaegeoreul ipryeokhaseyo WWW", 
+    year: "2019" 
+  },
+  { 
+    id: 266, 
+    theme: "korean_drama", 
+    answer: "내아이디는 강남미인", 
+    length_hint: "OOOOO OOOO", 
+    pronunciation: "naeaidineun gangnammiin", 
+    year: "2018" 
+  },
+  { 
+    id: 267, 
+    theme: "korean_drama", 
+    answer: "학교2017", 
+    length_hint: "OOO0OO", 
+    pronunciation: "hakgyoigongilchil", 
+    year: "2017" 
+  },
+  { 
+    id: 268, 
+    theme: "korean_drama", 
+    answer: "역적 : 백성을 훔친 도적", 
+    length_hint: "OO : OOO OO OO", 
+    pronunciation: "yeokjeok : baekseongeul humchin dojeok", 
+    year: "2017" 
+  },
+  { 
+    id: 269, 
+    theme: "korean_drama", 
+    answer: "사임당 빛의 일기", 
+    length_hint: "OOO OO OO", 
+    pronunciation: "saimdang biccui ilgi", 
+    year: "2017" 
+  },
+  { 
+    id: 270, 
+    theme: "korean_drama", 
+    answer: "대장금", 
+    length_hint: "OOO", 
+    pronunciation: "daejanggeum", 
+    year: "2004" 
+  },
+  { 
+    id: 271, 
+    theme: "korean_drama", 
+    answer: "세번결혼하는 여자", 
+    length_hint: "OOOOOO OO", 
+    pronunciation: "sebeongyeolhonhaneun yeoja", 
+    year: "2013" 
+  },
+  { 
+    id: 272, 
+    theme: "korean_drama", 
+    answer: "이웃집 웬수", 
+    length_hint: "OOO OO", 
+    pronunciation: "iusjip wensu", 
+    year: "2010" 
+  },
+  { 
+    id: 273, 
+    theme: "korean_drama", 
+    answer: "아이리스", 
+    length_hint: "OOOO", 
+    pronunciation: "airiseu", 
+    year: "2009" 
+  },
+  { 
+    id: 274, 
+    theme: "korean_drama", 
+    answer: "하늘이시여", 
+    length_hint: "OOOOO", 
+    pronunciation: "haneurisiyeo", 
+    year: "2006" 
+  },
+  { 
+    id: 275, 
+    theme: "korean_drama", 
+    answer: "크로스", 
+    length_hint: "OOO", 
+    pronunciation: "keuroseu", 
+    year: "2018" 
+  },
+  { 
+    id: 276, 
+    theme: "korean_drama", 
+    answer: "나인룸", 
+    length_hint: "OOO", 
+    pronunciation: "nainrum", 
+    year: "2018" 
+  },
+  { 
+    id: 277, 
+    theme: "korean_drama", 
+    answer: "명불허전", 
+    length_hint: "OOOO", 
+    pronunciation: "myeongbulheojeon", 
+    year: "2017" 
+  },
+  { 
+    id: 278, 
+    theme: "korean_drama", 
+    answer: "알함브라궁전의 추억", 
+    length_hint: "OOOOOOO OO", 
+    pronunciation: "alhambeuragungjeonui chueok", 
+    year: "2018" 
+  },
+  { 
+    id: 279, 
+    theme: "korean_drama", 
+    answer: "로맨스는 별책부록", 
+    length_hint: "OOOO OOOO", 
+    pronunciation: "romaenseuneun byeolchaekburok", 
+    year: "2019" 
+  },
+  { 
+    id: 280, 
+    theme: "korean_drama", 
+    answer: "마의", 
+    length_hint: "OO", 
+    pronunciation: "maui", 
+    year: "2013" 
+  },
+  { 
+    id: 281, 
+    theme: "korean_drama", 
+    answer: "태양의 후예", 
+    length_hint: "OOO OO", 
+    pronunciation: "taeyangui huye", 
+    year: "2016" 
+  },
+  { 
+    id: 282, 
+    theme: "korean_drama", 
+    answer: "당신이 잠든 사이에", 
+    length_hint: "OOO OO OOO", 
+    pronunciation: "dangsini jamdeun saie", 
+    year: "2017" 
+  },
+  { 
+    id: 283, 
+    theme: "korean_drama", 
+    answer: "내조의 여왕", 
+    length_hint: "OOO OO", 
+    pronunciation: "naejoui yeowang", 
+    year: "2009" 
+  },
+  { 
+    id: 284, 
+    theme: "korean_drama", 
+    answer: "해를 품은 달", 
+    length_hint: "OO OO O", 
+    pronunciation: "haereul pumeun dal", 
+    year: "2012" 
+  },
+  { 
+    id: 285, 
+    theme: "korean_drama", 
+    answer: "시크릿 마더", 
+    length_hint: "OOO OO", 
+    pronunciation: "sikeurit madeo", 
+    year: "2018" 
+  },
+  { 
+    id: 286, 
+    theme: "korean_drama", 
+    answer: "마더", 
+    length_hint: "OO", 
+    pronunciation: "madeo", 
+    year: "2018" 
+  },
+  { 
+    id: 287, 
+    theme: "korean_drama", 
+    answer: "흉부외과 - 심장을 훔친 의사들", 
+    length_hint: "OOOO - OOO OO OOO", 
+    pronunciation: "hyungbuoegwa - simjangeul humchin uisadeul", 
+    year: "2018" 
+  },
+  { 
+    id: 288, 
+    theme: "korean_drama", 
+    answer: "마녀보감", 
+    length_hint: "OOOO", 
+    pronunciation: "manyeobogam", 
+    year: "2016" 
+  },
+  { 
+    id: 289, 
+    theme: "korean_drama", 
+    answer: "우아한 가", 
+    length_hint: "OOO O", 
+    pronunciation: "uahan ga", 
+    year: "2019" 
+  },
+  { 
+    id: 290, 
+    theme: "korean_drama", 
+    answer: "배가본드", 
+    length_hint: "OOOO", 
+    pronunciation: "baegabondeu", 
+    year: "2019" 
+  },
+  { 
+    id: 291, 
+    theme: "korean_drama", 
+    answer: "결혼계약", 
+    length_hint: "OOOO", 
+    pronunciation: "gyeolhongyeyak", 
+    year: "2016" 
+  },
+  { 
+    id: 292, 
+    theme: "korean_drama", 
+    answer: "판타스틱", 
+    length_hint: "OOOO", 
+    pronunciation: "pantaseutik", 
+    year: "2016" 
+  },
+  { 
+    id: 293, 
+    theme: "korean_drama", 
+    answer: "올인", 
+    length_hint: "OO", 
+    pronunciation: "orin", 
+    year: "2003" 
+  },
+  { 
+    id: 294, 
+    theme: "korean_drama", 
+    answer: "골든타임", 
+    length_hint: "OOOO", 
+    pronunciation: "goldeuntaim", 
+    year: "2012" 
+  },
+  { 
+    id: 295, 
+    theme: "korean_drama", 
+    answer: "질투의 화신", 
+    length_hint: "OOO OO", 
+    pronunciation: "jiltuui hwasin", 
+    year: "2016" 
+  },
+  { 
+    id: 296, 
+    theme: "korean_drama", 
+    answer: "또! 오해영", 
+    length_hint: "O! OOO", 
+    pronunciation: "tto! ohaeyeong", 
+    year: "2016" 
+  },
+  { 
+    id: 297, 
+    theme: "korean_drama", 
+    answer: "직장의 신", 
+    length_hint: "OOO O", 
+    pronunciation: "jikjangui sin", 
+    year: "2013" 
+  },
+  { 
+    id: 298, 
+    theme: "korean_drama", 
+    answer: "퐁당퐁당 러브", 
+    length_hint: "OOOO OO", 
+    pronunciation: "pongdangpongdang reobeu", 
+    year: "2015" 
+  },
+  { 
+    id: 299, 
+    theme: "korean_drama", 
+    answer: "너의 목소리가 들려", 
+    length_hint: "OO OOOO OO", 
+    pronunciation: "neoui moksoriga deullyeo", 
+    year: "2013" 
+  },
+  { 
+    id: 300, 
+    theme: "korean_drama", 
+    answer: "알수도 있는 사람", 
+    length_hint: "OOO OO OO", 
+    pronunciation: "alsudo issneun saram", 
+    year: "2017" 
+  },
+  { 
+    id: 301, 
+    theme: "korean_drama", 
+    answer: "사이코메트리 그녀석", 
+    length_hint: "OOOOOO OOO", 
+    pronunciation: "saikometeuri geunyeoseok", 
+    year: "2019" 
+  },
+  { 
+    id: 302, 
+    theme: "korean_drama", 
+    answer: "18어게인", 
+    length_hint: "OOOOO", 
+    pronunciation: "18eogein", 
+    year: "2020" 
+  },
+  { 
+    id: 303, 
+    theme: "korean_drama", 
+    answer: "나 홀로 그대", 
+    length_hint: "O OO OO", 
+    pronunciation: "na hollo geudae", 
+    year: "2020" 
+  },
+  { 
+    id: 304, 
+    theme: "korean_drama", 
+    answer: "욱씨남정기", 
+    length_hint: "OOOOO", 
+    pronunciation: "ukssinamjeonggi", 
+    year: "2016" 
+  },
+  { 
+    id: 305, 
+    theme: "korean_drama", 
+    answer: "바람의 화원", 
+    length_hint: "OOO OO", 
+    pronunciation: "baramui hwawon", 
+    year: "2008" 
+  },
+  { 
+    id: 306, 
+    theme: "korean_drama", 
+    answer: "가을동화", 
+    length_hint: "OOOO", 
+    pronunciation: "gaeuldonghwa", 
+    year: "2000" 
+  },
+  { 
+    id: 307, 
+    theme: "korean_drama", 
+    answer: "추노", 
+    length_hint: "OO", 
+    pronunciation: "chuno", 
+    year: "2010" 
+  },
+  { 
+    id: 308, 
+    theme: "korean_drama", 
+    answer: "힘쎈 여자 도봉순", 
+    length_hint: "OO OO OOO", 
+    pronunciation: "himssen yeoja dobongsun", 
+    year: "2017" 
+  },
+  { 
+    id: 309, 
+    theme: "korean_drama", 
+    answer: "나 홀로 그대", 
+    length_hint: "O OO OO", 
+    pronunciation: "na hollo geudae", 
+    year: "2020" 
+  },
+  { 
+    id: 310, 
+    theme: "korean_drama", 
+    answer: "남자친구", 
+    length_hint: "OOOO", 
+    pronunciation: "namjachingu", 
+    year: "2018" 
+  },
+  { 
+    id: 311, 
+    theme: "korean_drama", 
+    answer: "나의 나라", 
+    length_hint: "OO OO", 
+    pronunciation: "naui nara", 
+    year: "2019" 
+  },
+  { 
+    id: 312, 
+    theme: "korean_drama", 
+    answer: "신입사관 구해령", 
+    length_hint: "OOOO OOO", 
+    pronunciation: "sinipsagwan guhaeryeong", 
+    year: "2019" 
+  },
+  { 
+    id: 313, 
+    theme: "korean_drama", 
+    answer: "사랑의 온도", 
+    length_hint: "OOO OO", 
+    pronunciation: "sarangui ondo", 
+    year: "2017" 
+  },
+  { 
+    id: 314, 
+    theme: "korean_drama", 
+    answer: "이태원 클라쓰", 
+    length_hint: "OOO OOO", 
+    pronunciation: "itaewon keullasseu", 
+    year: "2020" 
+  },
+  { 
+    id: 315, 
+    theme: "korean_drama", 
+    answer: "뷰티인사이드", 
+    length_hint: "OOOOOO", 
+    pronunciation: "byutiinsaideu", 
+    year: "2018" 
+  },
+  { 
+    id: 316, 
+    theme: "korean_drama", 
+    answer: "낭만닥터 김사부", 
+    length_hint: "OOOO OOO", 
+    pronunciation: "nangmandakteo gimsabu", 
+    year: "2017" 
+  },
+  { 
+    id: 317, 
+    theme: "korean_drama", 
+    answer: "닥터스", 
+    length_hint: "OOO", 
+    pronunciation: "dakteoseu", 
+    year: "2016" 
   },
 ];
